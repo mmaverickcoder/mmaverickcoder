@@ -4,13 +4,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mehulkhironi&color=blueviolet&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mehul-k-hironi)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/mehulkhironi)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/mmaverickcoder/mehulkhironi)
 
 </div>
 
 ## 👨‍💻 Engineering Lead | Solution Architect | Product Owner | Scrum Master
 
-Experienced Engineering Lead, Architect, and Product Owner with **18+ years** of hands-on experience in ideation, design, and development of **.NET-based enterprise-level applications** across various product development and management roles. Currently working as **Staff Engineering Manager** at **Beckman Coulter Diagnostics** (Danaher Group).
+Experienced Engineering Lead, Architect, and Product Owner with **18+ years** of hands-on experience in ideation, design, and development of **.NET-based enterprise-level applications** across various product development and management roles. Currently working as **Staff Engineering Manager** at **Beckman Coulter Diagnostics- Danaher**.
 
 ---
 
@@ -46,7 +46,7 @@ I have a proven track record to build, innovate, and solve real industry problem
 
 **Frontend:**
 - Angular with TypeScript
-- JavaScript frameworks
+- JavaScript frameworks React
 - Modern responsive web applications
 
 ### ☁️ Cloud & DevOps
@@ -54,7 +54,7 @@ I have a proven track record to build, innovate, and solve real industry problem
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-- Azure DevOps CI/CD pipelines
+- Azure DevOps and CI/CD Pipelines in Azure DevOps / GitHub Action
 - Microservices DevOps
 - Observability & Monitoring: ELK Stack, Logstash, Azure Data Storage, Grafana
 - Containerization and orchestration
@@ -94,11 +94,11 @@ I have a proven track record to build, innovate, and solve real industry problem
 ## 👔 Roles & Responsibilities
 
 ### 🎯 Leadership & Product Management
-- **Product Owner** - Product backlog grooming, strategic planning
+- **Product Owner** - Product backlog grooming, strategic planning, Agile leadership
 - **Scrum Master** - Agile methodologies using Azure DevOps
 - **Module Lead** - US Healthcare products (Microsoft Stack)
-- Product demos and training to new joiners and customers
-- Lean product development practices
+- Product demos and training for new joiners and customers
+- **Agile Leadership** with Lean Software and Product development practices
 
 ### 👥 People Development & Management
 - Managing **two 9-member Scrum teams** (Dev + Verification)
@@ -115,21 +115,18 @@ I have a proven track record to build, innovate, and solve real industry problem
 
 ---
 
-## 📚 Training & Mentorship
-
-### 🎓 Masterclasses
+## 📚 Latest Tech Stack
 - ☁️ **Azure & Azure AI/ML**
 - 🤖 **Gen AI & Agentic AI**
 - 🏗️ **Microservices Architecture**
+- 🛠️ **System Design & Architecture**
 - 💻 **Full-Stack .NET Development**
 - 🚀 **DevOps with Azure DevOps CI/CD & GitHub Actions**
 
-### 🆓 Free Courses Available
+### 🆓 Other Certifications and Courses
 - 📘 Azure Fundamentals
 - ☁️ AWS Cloud Practitioner
-- 🧩 ASP.NET Core
-- 🔢 Data Structures & Algorithms (DSA)
-- 🐍 Python for Beginners
+- 🐍 Python for GenAI
 - 🤖 Azure AI Fundamentals (AI-900)
 - 🗄️ SQL Server
 
@@ -148,28 +145,12 @@ I have a proven track record to build, innovate, and solve real industry problem
 + Strong focus on training, mentoring, and people development
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehulkhironi&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulkhironi&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehulkhironi&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehul_K_Hironi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-k-hironi)
-[![GitHub](https://img.shields.io/badge/GitHub-mehulkhironi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehulkhironi)
+[![GitHub](https://img.shields.io/badge/GitHub-mehulkhironi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmaverickcoder/mehulkhironi)
 
 </div>
 
