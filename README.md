@@ -160,6 +160,6 @@ I have a proven track record to build, innovate, and solve real industry problem
 
 ### ⭐️ *"Transforming knowledge into hands-on expertise, one engineer at a time."*
 
-**Open to collaborations, mentorship opportunities, and innovative projects!**
+**Focused on engineering excellence, customer-centric product delivery, leadership growth, and mentoring high-performing teams**
 
 </div>
