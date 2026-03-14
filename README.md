@@ -1,88 +1,55 @@
 # 👋 Hi, I'm Mehul K Hironi
 
-<div align="center">
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=mehulkhironi&color=blueviolet&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mehul-k-hironi)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/mmaverickcoder/mehulkhironi)
+## 👨‍💻 Engineering Lead | Solution Architect | Product Owner
 
-</div>
+Staff Engineering Manager at **Beckman Coulter Diagnostics (Danaher)** with **18+ years** building
+enterprise .NET systems in regulated healthcare environments.
 
-## 👨‍💻 Engineering Lead | Solution Architect | Product Owner | Scrum Master
-
-Experienced Engineering Lead, Architect, and Product Owner with **18+ years** of hands-on experience in ideation, design, and development of **.NET-based enterprise-level applications** across various product development and management roles. Currently working as **Staff Engineering Manager** at **Beckman Coulter Diagnostics- Danaher**.
+I operate at the intersection of **engineering, product, and people** — leading cross-functional
+Scrum teams, driving 3-year product roadmaps, and shipping FDA-cleared software while growing
+the engineers who build it.
 
 ---
 
 ## 🚀 About Me
 
-💡 **My Philosophy:**  
-> *"Knowledge means nothing without hands-on experience"* - I believe every developer needs to keep learning by building and trying POCs with new tech.
+💡 **My Philosophy:**
+> *"Knowledge means nothing without hands-on experience"* — every engineer should keep learning by building and trying POCs with new tech.
 
-🎯 **What Drives Me:**  
-I have a proven track record to build, innovate, and solve real industry problems with confidence. I'm passionate about transforming knowledge into hands-on expertise and mentoring the next generation of engineers.
+🎯 **What Drives Me:**
+Proven track record of building, innovating, and solving real industry problems with confidence. Passionate about transforming knowledge into hands-on expertise and mentoring the next generation of engineers.
 
 ### 🏢 Current Role Highlights
 - Leading **two 9-member Scrum teams** (Development + Verification engineers)
-- Delivered **MVP & MVP+ product features** aligned with strategic goals for 3-year product launches
-- Responsible for end-to-end development and delivery of software products
+- Delivered **MVP & MVP+ product features** aligned with strategic goals for 3-year product roadmaps
+- End-to-end ownership of software product development and delivery
 - Working closely with business heads to define and implement strategies for timely, high-quality deliverables
 
 ---
 
 ## 🛠️ Technology Stack & Expertise
 
-### 💻 Full Stack Development
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white)
-
-**Backend:**
-- C#.NET (WPF) Windows Desktop Development
-- ASP.NET Core MVC - Web APIs with RESTful architecture
-- Microservices architecture
-- Distributed, scalable architecture for Desktop, Mobile, and Web clients
-
-**Frontend:**
-- Angular with TypeScript
-- JavaScript frameworks React
-- Modern responsive web applications
-
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-- Azure DevOps and CI/CD Pipelines in Azure DevOps / GitHub Action
-- Microservices DevOps
-- Observability & Monitoring: ELK Stack, Logstash, Azure Data Storage, Grafana
-- Containerization and orchestration
-
-### 🗄️ Database & Tools
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-- SQL Server (SSMS) - Database Design
-- Visual Studio, VS Code
-- UML Modelling & Mind Maps for product feature design
-
-### 🔒 Security & Architecture
-- Cyber Security Threat Modelling
-- Secure, scalable distributed architecture
-- Design & Architecture Review
-- Code Review & Best Practices
+| Layer | Technologies |
+|---|---|
+| Backend | C# · .NET Core · ASP.NET · WPF · Microservices |
+| Frontend | ASP.NET Core MVC · JavaScript · Angular · React · TypeScript · Vite |
+| Cloud/DevOps | Azure DevOps · Docker · Kubernetes · GitHub Actions |
+| Database & Tools | SQL Server · PostgreSQL · pgvector · Visual Studio · VS Code · UML · C4 Modelling |
+| Observability | ELK Stack · Logstash · Grafana |
+| AI/ML | Azure OpenAI · GenAI · RAG · GitHub Copilot · Claude · Python |
+| Architecture | RESTful APIs · Distributed Systems · Microservices · Cyber Security Threat Modelling |
 
 ---
 
 ## 🏥 Business Domain Expertise
 
 ### Healthcare & Medical Devices
-- **US Medical Devices** - FDA 510K certified
-- **Regulatory Compliance** - 21 CFR 820, ISO 13485
-- **Healthcare Diagnostics** - Beckman Coulter product suite
-- **US EHR/EMR** - Electronic Health/Medical Records systems
+- **US Medical Devices** — FDA 510(k) certified software
+- **Regulatory Compliance** — 21 CFR 820, ISO 13485
+- **Healthcare Diagnostics** — Beckman Coulter product suite
+- **US EHR/EMR** — Electronic Health & Medical Records systems
 - **US Life Sciences**
 
 ### Other Industries
@@ -91,44 +58,81 @@ I have a proven track record to build, innovate, and solve real industry problem
 
 ---
 
-## 👔 Roles & Responsibilities
+## 🤝 Leadership & Cross-Functional Impact
 
-### 🎯 Leadership & Product Management
-- **Product Owner** - Product backlog grooming, strategic planning, Agile leadership
-- **Scrum Master** - Agile methodologies using Azure DevOps
-- **Module Lead** - US Healthcare products (Microsoft Stack)
-- Product demos and training for new joiners and customers
-- **Agile Leadership** with Lean Software and Product development practices
-
-### 👥 People Development & Management
-- Managing **two 9-member Scrum teams** (Dev + Verification)
-- **Recruitment, Training & Mentoring** engineers
-- Conducting yearly appraisals and providing feedback
-- Building high-performing engineering teams
-
-### 🏗️ Technical Leadership
-- Design & Architecture Review
-- Design candidate discussions
-- Code Review and quality assurance
-- Training & Mentoring developers
-- Building new application features that interact with existing infrastructure
+| Dimension | How I Lead |
+|---|---|
+| 👥 People | Manage & lead 2 Scrum team with 18 engineers across Dev + Verification teams |
+| 🎯 Product | Own backlog, roadmap alignment, and MVP delivery with business stakeholders |
+| 🏗️ Architecture | Drive code, design & architecture reviews, ADRs, design candidate discussions, and technical strategy |
+| 🔄 Cross-functional | Bridge Engineering, Systems, QA, Regulatory, and Business units |
+| 📈 Growth | Recruitment, onboarding, appraisals, and capability building |
 
 ---
 
-## 📚 Latest Tech Stack
-- ☁️ **Azure & Azure AI/ML**
-- 🤖 **Gen AI & Agentic AI**
-- 🏗️ **Microservices Architecture**
-- 🛠️ **System Design & Architecture**
-- 💻 **Full-Stack .NET Development**
-- 🚀 **DevOps with Azure DevOps CI/CD & GitHub Actions**
+## 🔬 POC Projects & Experiments
 
-### 🆓 Other Certifications and Courses
-- 📘 Azure Fundamentals
-- ☁️ AWS Cloud Practitioner
-- 🐍 Python for GenAI
-- 🤖 Azure AI Fundamentals (AI-900)
-- 🗄️ SQL Server
+### 🧠 MedDevice Knowledge Assistant — RAG-Based Semantic Search
+> *Turning scattered product knowledge into instant, intelligent answers for engineering teams*
+
+A hands-on POC exploring Retrieval-Augmented Generation (RAG) for real-time semantic search
+across Medical Devices domain knowledge — built for **Engineering Managers, Product Owners,
+and Development Teams**.
+
+**🎯 Problem Solved:**
+Product and engineering teams spent significant time hunting across siloed sources — IFUs,
+Design Docs, multi-discipline domain knowledge, and Azure DevOps work items — to answer
+product and technical questions. This tool unifies that knowledge into a single intelligent
+search interface.
+
+**⚙️ Tech Stack:**
+
+| Layer | Technology |
+|---|---|
+| 🧠 AI / Embeddings | Company-hosted Azure OpenAI endpoint (secured within internal domain) |
+| 🗄️ Vector Store | PostgreSQL + pgvector — stores and retrieves document embeddings |
+| 🖥️ Backend | Custom .NET Core Web APIs |
+| 🎨 Frontend | React + TypeScript + Vite |
+| 📦 Data Sources | Product IFUs (PDF) · Design Docs (Word) · Azure DevOps Requirements & Work Items |
+
+**🔧 How It Works:**
+1. 📄 **Ingest** — PDF and Word documents (IFUs, Design Docs) are chunked into segments
+2. 🔢 **Embed** — Each chunk is converted to vector embeddings via the internal Azure OpenAI endpoint
+3. 🗄️ **Store** — Embeddings stored in PostgreSQL pgvector database
+4. 🔍 **Search** — User query is embedded and matched against stored vectors for semantically relevant results
+5. 💬 **Answer** — Relevant chunks passed to Azure OpenAI to generate a contextual, grounded response
+
+**🔒 Security:**
+All AI inference is routed through an internally hosted Azure OpenAI endpoint — no data leaves
+the company domain, which is critical for regulated Medical Devices environments.
+
+**👥 End Users:** Engineering Managers · Product Owners · Developers · Cross-functional Technical Teams
+
+**🚀 Next Steps:**
+- Automate full ingestion pipeline using a RAG orchestration framework (LangChain / LangGraph)
+- Scheduled sync for Azure DevOps work items and document updates
+- Role-based access control and response filtering
+
+**📌 Status:** POC Complete — Manual ingestion pipeline · Exploring automation & productionization path
+
+---
+
+## 🔭 Currently Exploring
+
+- ☁️ **Azure & Azure AI/ML** — deepening cloud-native AI architecture patterns
+- 🤖 **Agentic AI** — exploring LangChain, LangGraph, CrewAI, Azure AI Foundry for workflow automation
+- 🏥 **LLM integration patterns** for regulated healthcare environments
+- 🚀 **Next:** Automating RAG ingestion pipeline with an orchestration framework
+
+### 📜 Certifications & Courses
+
+| Certification | Issuer |
+|---|---|
+| 📘 Azure Fundamentals (AZ-900) | Microsoft |
+| ☁️ AWS Cloud Practitioner | Amazon Web Services |
+| 🤖 Azure AI Fundamentals (AI-900) | Microsoft |
+| 🐍 Python for GenAI | Online |
+| 🗄️ SQL Server | Microsoft |
 
 ---
 
@@ -136,14 +140,16 @@ I have a proven track record to build, innovate, and solve real industry problem
 
 ```diff
 + 18+ years of proven track record in .NET enterprise application development
-+ Delivered MVP & MVP+ product features aligned with strategic goals for 3-year launches
-+ Leading two 9-member Scrum teams (Dev + Verification engineers)
-+ Expert in Healthcare product suites (FDA 510K, 21 CFR 820, ISO 13485, US EHR/EMR)
-+ Built distributed, scalable architectures for Desktop, Mobile, and Web clients
-+ Implemented observability and monitoring in Microservices (ELK, Grafana)
-+ Proven ability in building features that integrate with existing applications
-+ Strong focus on training, mentoring, and people development
++ 🚀 Delivered MVP + MVP+ features for a 3-year strategic product roadmap at Beckman Coulter
++ 👥 Lead & mentor 18 engineers across 2 Scrum teams (Dev + Verification)
++ 🏥 Shipped FDA 510(k)-cleared software under 21 CFR 820 & ISO 13485
++ ⚙️ Architected distributed systems serving Desktop, Mobile & Web clients
++ 🤝 Cross-functional leader bridging Engineering, Regulatory, QA & Business for on-time delivery
++ 📈 Drove recruitment and capability growth across two cross-functional Scrum teams
++ 🔬 Built RAG-based Knowledge Assistant POC using Azure OpenAI + pgvector + .NET Core + React
 ```
+
+---
 
 ## 📫 Let's Connect!
 
@@ -158,8 +164,8 @@ I have a proven track record to build, innovate, and solve real industry problem
 
 <div align="center">
 
-### ⭐️ *"Transforming knowledge into hands-on expertise, one engineer at a time."*
+### ⭐️ *"Engineering excellence at scale — from architecture decisions to the engineers who implement them."*
 
-**Focused on engineering excellence, customer-centric product delivery, leadership growth, and mentoring high-performing teams**
+**Focused on engineering excellence, customer-centric product delivery, leading high-performing teams across functions and business units**
 
 </div>
