@@ -38,7 +38,7 @@ Proven track record of building, innovating, and solving real industry problems 
 | Cloud/DevOps | Azure DevOps · Docker · Kubernetes · GitHub Actions |
 | Database & Tools | SQL Server · PostgreSQL · pgvector · Visual Studio · VS Code · UML · C4 Modelling |
 | Observability | ELK Stack · Logstash · Grafana |
-| AI/ML | Azure OpenAI · GenAI · RAG · GitHub Copilot · Claude · Python |
+| AI/ML | Azure OpenAI · GenAI · RAG · GitHub Copilot · Claude · Python · LangChain · LangGraph |
 | Architecture | RESTful APIs · Distributed Systems · Microservices · Cyber Security Threat Modelling |
 
 ---
