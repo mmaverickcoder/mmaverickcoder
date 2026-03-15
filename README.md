@@ -142,7 +142,7 @@ the company domain, which is critical for regulated Medical Devices environments
 + 18+ years of proven track record in .NET enterprise application development
 + 🚀 Delivered MVP + MVP+ features for a 3-year strategic product roadmap at Beckman Coulter
 + 👥 Lead & mentor 18 engineers across 2 Scrum teams (Dev + Verification)
-+ 🏥 Shipped FDA 510(k)-cleared software under 21 CFR 820 & ISO 13485
++ 🏥 Shipped FDA 510(k)-cleared software under 21 CFR 820 & ISO 13485 & IEC 62304
 + ⚙️ Architected distributed systems serving Desktop, Mobile & Web clients
 + 🤝 Cross-functional leader bridging Engineering, Regulatory, QA & Business for on-time delivery
 + 📈 Drove recruitment and capability growth across two cross-functional Scrum teams
